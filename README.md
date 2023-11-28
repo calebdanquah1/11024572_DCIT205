@@ -17,3 +17,5 @@ Getting Started
 To get a copy of the project up and running on your local machine, follow these steps:
 Open the HTML file:
 Open the index.html file in your preferred web browser to view the webpage.
+![Screenshot (19)](https://github.com/calebdanquah1/11024572_DCIT205/assets/151131950/dbc2b7b5-35ed-4643-9632-bd5cb76aa785)
+![Screenshot (20)](https://github.com/calebdanquah1/11024572_DCIT205/assets/151131950/a8edc504-c8df-4f8d-b684-8c36d97663cb)
